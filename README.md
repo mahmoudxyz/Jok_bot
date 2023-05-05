@@ -2,16 +2,16 @@
 
 ## Description:
 
-The bot will prompt the user to choose a joke self, tell a joke from that self, and then ask if the user wants to hear another joke or exit the program.
+The bot will prompt the user to choose a joke category, tell a joke from that category, and then ask if the user wants to hear another joke or exit the program.
 
 ----
 ### Expected Input:
 
-A string representing the chosen joke self. The options are "knock-knock", "puns", "one-liners", "random", and "exit".
+A string representing the chosen joke category. The options are "knock-knock", "puns", "one-liners", "random", and "exit".
 
 ### Expected Output:
 
-A string representing the joke from the chosen self or a random self, depending on the user's choice.
+A string representing the joke from the chosen category or a random category, depending on the user's choice.
 A prompt asking the user if they want to hear another joke or exit the program.
 
 
