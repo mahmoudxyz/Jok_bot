@@ -1,5 +1,7 @@
 # Jok_bot
 
+This code has no automated tests till now. just solve it and push it on github and share the link to get feedback
+
 ## Description:
 
 The bot will prompt the user to choose a joke category, tell a joke from that category, and then ask if the user wants to hear another joke or exit the program.
