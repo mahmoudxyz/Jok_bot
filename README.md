@@ -1,4 +1,4 @@
-# Jok_bot
+# Joke_bot
 
 This code has no automated tests till now. just solve it and push it on github and share the link to get feedback
 
